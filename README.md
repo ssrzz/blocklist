@@ -8,14 +8,14 @@ Done.
 <p align="center"><img src="images/usage.png" width="550" style="border-radius: 10px"/><p>
 
 ## Blocked IDs
-637 blocked Twitter user (promoted by Twitter Ads Platform). 
+637 blocked Twitter users (users promoted by Twitter Ads Platform). 
 
 Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/master/blocklist.csv) of blocked IDs.
 
 (This list will be updated once a week)
 
 | ID   | SCREEN_NAME |
-| ---- | ----------- |
+|:---- |:----------- |
 |276254736|Postmates|
 |1149523717|GetTheFabulous|
 |76117579|SAP|

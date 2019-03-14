@@ -18,6 +18,7 @@ pprint(posted)
 with open('blocklist.csv', 'r') as f:
 	for ln in f.readlines():
 		uid = ln.strip()
+		if uid in posted: continue
 		posted[uid] = True
 		try:
 			x = t.statuses.user_timeline(_id=uid, count=1)			
