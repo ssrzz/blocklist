@@ -1,7 +1,8 @@
 # Twitter Blocklist
 
 637 blocked Twitter user (promoted by Twitter Ads Platform) 
-(This list will updated once a week)
+
+(This list will be updated once a week)
 
 | ID   | SCREEN_NAME |
 | ---- | ----------- |
