@@ -1,6 +1,16 @@
 # Twitter Blocklist
 
-637 blocked Twitter user (promoted by Twitter Ads Platform) 
+## How to use it ?
+Go to [twi](https://twitter.com/settings/blocked) -> **Advanced Options** -> **import a list**. 
+
+Done.
+
+<p align="center"><img src="images/usage.png" width="550" style="border-radius: 10px"/><p>
+
+## Blocked IDs
+637 blocked Twitter user (promoted by Twitter Ads Platform). 
+
+Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/master/blocklist.csv) of blocked IDs.
 
 (This list will be updated once a week)
 
