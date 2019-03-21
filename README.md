@@ -8,7 +8,7 @@ Done.
 <p align="center"><img src="images/usage.png" width="550" style="border-radius: 10px"/><p>
 
 ## Blocked IDs
-637 blocked Twitter users (users promoted by Twitter Ads Platform). 
+793 blocked Twitter users (users promoted by Twitter Ads Platform). 
 
 Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/master/blocklist.csv) of blocked IDs.
 
