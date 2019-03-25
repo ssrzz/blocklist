@@ -11,19 +11,27 @@ def get_keysNtokens(keyFile):
 
 auth = "/usr/local/info/fayder.json"
 t = Twitter(auth=OAuth(*get_keysNtokens(auth)))
-breakpoint = True
+
 posted = json.load(open('posted.json', 'r'))
-pprint(posted)
+readme = open('README.md', 'r').readlines()
 
 with open('blocklist.csv', 'r') as f:
-	for ln in f.readlines():
+	accounts = f.readlines()
+	readme[10] = "{} blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).\n".format(len(accounts))
+
+	for ln in accounts:
 		uid = ln.strip()
 		if uid in posted: continue
 		posted[uid] = True
+	
 		try:
 			x = t.statuses.user_timeline(_id=uid, count=1)			
 			print("|{}|{}|".format(uid, x[0]['user']['screen_name']))
+
+			readme.append("|{}|{}|\n".format(uid, x[0]['user']['screen_name']))
+			json.dump(posted, open('posted.json', 'w'), indent=2)
+			f = open('README.md', 'w')
+			f.write(''.join(readme))
 		except Exception as e:
 			print("|{}|{}|".format(uid, 'UNKNOWN'))
-	json.dump(posted, open('posted.json', 'w'), indent=2)
 
