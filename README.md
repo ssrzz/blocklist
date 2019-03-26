@@ -9,6 +9,7 @@ Miss Completed ! 👍
 
 ## Blocked Account IDs
 1144 blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform). 
+
 Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/master/blocklist.csv) of blocked IDs.
 
 (This list will be updated once a week)
