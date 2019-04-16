@@ -3,7 +3,7 @@
 ## How to use it ?
 Go to [Twitter.com/blocklist](https://twitter.com/settings/blocked) -> **Advanced Options** -> **import a list**. 
 
-Miss Completed ! 👍 
+Mission Completed ! 👍 
 
 <p align="center"><img src="images/usage.png" width="550" style="border-radius: 10px"/><p>
 
