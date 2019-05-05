@@ -18,20 +18,21 @@ readme = open('README.md', 'r').readlines()
 with open('blocklist.csv', 'r') as f:
 	accounts = f.readlines()
 	readme[10] = "{} blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).\n".format(len(accounts))
+	accounts = [uid.strip() for uid in accounts if uid.strip() not in posted]		
 
-	for ln in accounts:
-		uid = ln.strip()
-		if uid in posted: continue
-		posted[uid] = True
-	
+	for idx, uid in enumerate(accounts):
 		try:
 			x = t.statuses.user_timeline(_id=uid, count=1)			
-			print("|{}|{}|".format(uid, x[0]['user']['screen_name']))
+			print("[{:<3}/{:>3}] \t {:<30} {}".format(idx + 1, len(accounts), uid, x[0]['user']['screen_name']))
 
-			readme.append("|{}|{}|\n".format(uid, x[0]['user']['screen_name']))
+			new_item = "|{}|{}|\n".format(uid, x[0]['user']['screen_name'])
+			if new_item not in readme:
+				readme.append(new_item)
+				f = open('README.md', 'w')
+				f.write(''.join(readme))
+
+			posted[uid] = True
 			json.dump(posted, open('posted.json', 'w'), indent=2)
-			f = open('README.md', 'w')
-			f.write(''.join(readme))
 		except Exception as e:
 			print("|{}|{}|".format(uid, 'UNKNOWN'))
 

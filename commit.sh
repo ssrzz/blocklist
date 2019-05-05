@@ -1,5 +1,5 @@
 #!/bin/bash 
-comments=$1
+comments=$@
 git add .
 git commit -m "$comments"
 git push 
