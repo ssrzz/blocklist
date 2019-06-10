@@ -8,7 +8,7 @@ Mission Completed ! 👍
 <p align="center"><img src="images/usage.png" width="550" style="border-radius: 10px"/><p>
 
 ## Blocked Account IDs
-3207 blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).
+3244 blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).
 
 Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/master/blocklist.csv) of blocked IDs.
 
@@ -3220,3 +3220,38 @@ Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/
 |51102967|YeardleySmith|
 |25473071|mrspy|
 |70757632|nyu_journalism|
+|1116977205609766913|Teemo11772641|
+|878409350997434368|jerrytomfast|
+|892308876804141056|AJC_CE|
+|1106671540010127361|dynam_it|
+|2289646178|SanofiPolska|
+|963023417334255617|the_1st_news|
+|3094018773|ZPPnetpl|
+|3061507809|SagePolska|
+|1966934329|monese|
+|1042196208297472000|TomTomDevs|
+|167324989|HuaweiMobile|
+|3092776893|DPDgroup_news|
+|1081628731435814912|RepublikaKAKTUS|
+|261428645|EUinPL|
+|1851590460|PAIH_pl|
+|715268393977430018|LillyRheumEU|
+|41828189|Comarch_Telecom|
+|2981396697|thinkcopper|
+|818951154|FEFCO|
+|201208124|serbiatourism|
+|1595919655|OpelNewsroom|
+|102392496|Opel|
+|177112193|flareaudio|
+|720257453221261320|Huawei_Europe|
+|732224234789998592|aevidomore|
+|2420979416|MScDigital|
+|1967601206|InfluxDB|
+|577007325|iutiku|
+|92277010|meniga|
+|99774063|Agendia|
+|397926386|amicaAGD|
+|149791253|yangxiaoguang|
+|2335560870|Turkey_Home|
+|3165955126|Uber_Pol|
+|920892744|iPrime0211|
