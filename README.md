@@ -8,7 +8,7 @@ Mission Completed ! 👍
 <p align="center"><img src="images/usage.png" width="550" style="border-radius: 10px"/><p>
 
 ## Blocked Account IDs
-3341 blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).
+3421 blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).
 
 Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/master/blocklist.csv) of blocked IDs.
 
@@ -3360,3 +3360,84 @@ Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/
 |42394190|mBankpl|
 |3162732040|AliorBankSA|
 |194372731|insignis_media|
+|1060953799404204033|UL_ChemSafety|
+|17224076|SoundersFC|
+|528164932|ItsDreBands|
+|3667507460|LG_TechIT|
+|20656326|jenniochoi|
+|567491918|PlayWarframe|
+|19376519|calibadger|
+|994304145644453888|IslandProtect|
+|3331860604|BrianSConverse|
+|218657699|nyuschoolofmed|
+|18396016|jonathanbaker|
+|35317269|Rob_Gordo|
+|1521569544|stewart__dennis|
+|976193508|qaelumNV|
+|99367231|paaia|
+|2281029570|PIHHealth|
+|912735488867368960|Sweetbitter_STZ|
+|1108451787172806656|betplus|
+|30804914|Jukebox|
+|1710544940|PlanetOneComm|
+|825117123936612353|IntelAI|
+|52075851|flyfwa|
+|17812282|Randy_Gage|
+|31482529|EmpireCLS|
+|2511697256|webtoon|
+|1656293354|Zagliner|
+|1065642365006897152|bettermenapp|
+|863069602674348032|Henrysometimes|
+|175409819|Sling|
+|19342160|EPIXHD|
+|312964675|EarthSeaWarrior|
+|120183045|torkusa|
+|826854440367845376|Borealconserve|
+|246596682|CouRageJD|
+|22624436|OriginsOSU|
+|39689192|mkula|
+|76789235|BestFoods|
+|20205854|AXE|
+|755002105296019456|BlasphemousGame|
+|998629867242557440|play_rune|
+|68485484|flexerasoftware|
+|243235100|peaklabs|
+|1126923552454791169|ShaRef_A_|
+|1091013151737499649|CSWM_CSsports|
+|1101641502025867264|loveislandusa|
+|250385449|EY_TMT|
+|2798092004|EXCEL|
+|311795739|HoneyTrek|
+|3907996338|HHshkkhawla|
+|910286698721968128|ShipChain|
+|2414666880|DarkJoeRavine|
+|758580609706975234|linetoday|
+|298158589|VotoExtranjero|
+|103074428|MetroByTMobile|
+|902226207810265089|interzoid|
+|109215107|gutekfilm|
+|97298155|SIFMA|
+|1096469237282017282|FlavorsWingDaq|
+|2387677117|ZLineKitchen|
+|299606822|JohnPileggi|
+|2746936639|AMCArtisanFilms|
+|916814792|twdb|
+|140561940|BoeingCareers|
+|942833285033545728|Phagiaflex1|
+|234425642|LGAairport|
+|54904679|AirCanada|
+|34667202|MapleStory|
+|808793586200432640|xfinitymobile|
+|3331557719|SanPellegrino|
+|221875895|BusinessIOWA|
+|972186174507945984|Impressivetalen|
+|603617274|GrupaPZU|
+|2232299834|GDIT|
+|3214748956|DPWMarin|
+|937294358|MIUMIUofficial|
+|1128410375509217285|MetaramaFest|
+|824665978655141888|Worldwangyl|
+|855369881117532160|Kaylee97617949|
+|3009980371|Photomyne|
+|1083679300421849088|EyreMarcie|
+|39516018|EU_Consumer|
