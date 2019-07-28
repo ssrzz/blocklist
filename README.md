@@ -8,7 +8,7 @@ Mission Completed ! 👍
 <p align="center"><img src="images/usage.png" width="550" style="border-radius: 10px"/><p>
 
 ## Blocked Account IDs
-3421 blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).
+3473 blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).
 
 Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/master/blocklist.csv) of blocked IDs.
 
@@ -3441,3 +3441,60 @@ Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/
 |3009980371|Photomyne|
 |1083679300421849088|EyreMarcie|
 |39516018|EU_Consumer|
+|1149770050544513025|KoomaReebo|
+|635943302|SuperGirlPro|
+|11525462|wohuijide|
+|1126937846516977666|changeupondazn|
+|132424384|HPE_APAC|
+|1140616987741212672|hcustle|
+|77757207|Gabydecarolis|
+|1085941087267639296|FraudRanger|
+|1948574444|GANMA_JPN|
+|791997205410357249|alacrangroup|
+|250053977|Rout_PoliticsIR|
+|1138664265609428992|rant_and_review|
+|1851469771|DrLRHartMD|
+|71527263|push_star|
+|224423919|WordsWFriends|
+|2899219978|USA2WIN|
+|770238061787570177|myeventdigital|
+|1008600578698641409|KTCHNrebel|
+|797201132158189568|thebig3|
+|1106313419118936064|BBTLmovie|
+|17984536|GELighting|
+|393852070|Avengers|
+|4004622609|TrubyHilton|
+|61735766|GoldieChan|
+|4709232802|WynonnaEarp|
+|1022058774469783553|CyberSec_Expo|
+|753135011293868032|sungenomics|
+|57016932|Porsche|
+|282549629|hacktivityconf|
+|785097525862797312|MiskGlobalForum|
+|794879022454870016|gadgetshieldz|
+|1246508436|sanwatforall|
+|882927893453479936|towatofuon|
+|1115225592432144385|showboxchannel|
+|1039137766041374722|Zuhausesein|
+|62029365|BooksToBrowse|
+|19671234|Sunrun|
+|335360731|AmericaInvests|
+|946021849632247809|TheBitFreezer|
+|983143425850699777|darklordjournal|
+|1017856237|Uconnect|
+|9004352|ScanSource|
+|759527448757215232|eUnited|
+|15533111|BloodCenterWI|
+|4360979354|That_Helps|
+|1147539274440552449|SeriesPandora|
+|877952584333410305|NVIDIAAIDev|
+|273715727|fanta|
+|970058882864201729|EyeJustLoves|
+|966333348607156225|dmoat_Inc|
+|159146460|pacificoaks|
+|47706817|Popsicle|
+|1029747600692600833|armyfutures|
+|1026840877782786049|therealflipboss|
+|3288769618|TheMiamiFC|
+|755113|shaunking|
+|1138416721642119168|hhuussttllee1|
