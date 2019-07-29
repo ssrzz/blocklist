@@ -36,3 +36,5 @@ with open('blocklist.csv', 'r') as f:
 		except Exception as e:
 			print("|{}|{}|".format(uid, 'UNKNOWN'))
 
+readme.append('Contact me or open a pull request if you would like to be added to this list!')
+readme.append('[![E-Mail](static/mail.png)](mailto:ssrzz@pm[.]org)')
