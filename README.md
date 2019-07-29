@@ -3497,4 +3497,10 @@ Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/
 |1026840877782786049|therealflipboss|
 |3288769618|TheMiamiFC|
 |755113|shaunking|
-|1138416721642119168|hhuussttllee1|
+|1138416721642119168|hhuussttllee|
+Contact me or open a pull request if you would like to be added to this list
+
+![![E-Mail](static/mail.png)](mailto:ssrzz@pm[.]org)
+
+Contact me or open a pull request if you would like to be added to this list!
+[![E-Mail](static/mail.png)](mailto:ssrzz@pm[.]org)
