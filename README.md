@@ -8,7 +8,7 @@ Mission Completed ! 👍
 <p align="center"><img src="images/usage.png" width="550" style="border-radius: 10px"/><p>
 
 ## Blocked Account IDs
-13024 blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).
+13037 blocked Twitter ad-accounts (accounts promoted by Twitter Ads Platform).
 
 Find here the complete [list](https://raw.githubusercontent.com/ssrzz/blocklist/master/blocklist.csv) of blocked IDs.
 
@@ -4379,3 +4379,21 @@ Contact me or open a pull request if you would like to be added to this list!
 |910352278703497216|yusupbabay79|
 |717905524444889088|CUBE_PTG|
 |911563440942063616|OneSightAgency|
+|1021875830794924034|DohaDebates|
+|2790916980|TOURISMHANGZHOU|
+|921832421020053504|photawe|
+|1114561474867924993|Tom_Allison_|
+|933995981305253888|BlockchainAG|
+|1129748147478061056|NavinShimmer|
+|846277110066900992|kstarlivecom|
+|1041531676206288897|USAmbSLM|
+|89717736|ELSchemistry|
+|1140782090398699520|ET_embassy|
+|1005930978538328066|apcoachapp|
+|2321331529|PintoFotografia|
+|29703512|iTranslateApp|
+|3305145977|crissi_beth|
+|386270369|GilbertRivera6|
+|33021466|StephenMRCovey|
+|170495482|DonJuravin|
+|3316850183|BBCStoryWorks|
